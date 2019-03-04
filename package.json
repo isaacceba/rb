@@ -1,5 +1,7 @@
 {
   "name": "splurty",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "yarn": "^1.13.0"
+  }
 }
