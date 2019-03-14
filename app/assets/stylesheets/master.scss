@@ -76,7 +76,6 @@ h1 {
 
 h2 {
   font-family: 'nobilemedium_italic', sans-serif;
-   sans-serif;
   font-weight: 600;
   letter-spacing: -1.5px;
 }
@@ -111,11 +110,12 @@ h2 span {
   .footer-blurb {
     text-align: left;
   }
+  }
 
 .modal {
   font-family: "Palatino Linotype", Palatino, Palladio, "URW Palladio L", "Book Antiqua", Baskerville, "Bookman Old Style", "Bitstream Charter", "Nimbus Roman No9 L", Garamond, "Apple Garamond", "ITC Garamond Narrow", "New Century Schoolbook", "Century Schoolbook", "Century Schoolbook L", Georgia, serif;
-}
+  }
 
-::selection {
-  background-color: #f84342;
+.selection {
+background-color: #f84342;
 }
